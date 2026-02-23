@@ -10,3 +10,6 @@
 
 # Project file (如果你選擇只用 Tcl 重建，可以忽略 .xpr)
 *.xpr
+
+# 編譯後的執行檔案
+*.exe

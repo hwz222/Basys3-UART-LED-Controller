@@ -48,6 +48,3 @@
    * Stop bits: `1`
    * Parity: `None`
 5. 於終端機內敲擊鍵盤，觀察板載 16 顆 LED 的變化。
-
-## 開發者 (Developer)
-黃偉哲 (Weijhe Huang)
