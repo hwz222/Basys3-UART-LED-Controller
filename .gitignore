@@ -1,0 +1,12 @@
+# Vivado folders
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+*.jou
+*.log
+
+# Project file (如果你選擇只用 Tcl 重建，可以忽略 .xpr)
+*.xpr
